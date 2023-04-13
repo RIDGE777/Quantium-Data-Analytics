@@ -73,3 +73,8 @@ Step 3: After checking the Null Hypothesis of the first 2 steps to be true, I ch
 Checked the T-Value of the Percentage Difference of each Trial month (Feb, March, and April 2019). The mean is the mean of Percentage Difference during pre-trial. Standard deviation is the stdev of Percentage Difference during pre-trial. Formula is Trial Month’s Percentage Difference Minus Mean, divided by Standard deviation. Compare each T-Value with 95% percentage significance critical t-value of 6 degrees of freedom (7 months of sample - 1)
 
 The analysis revealed that Trial stores 77 and 86 exhibited a significant increase in total sales and number of customers during the three-month trial period, exceeding the 95% threshold of their respective Control stores. Conversely, Trial store 88 did not exhibit a significant increase in performance during the trial period compared to its Control store. It is possible that there were certain factors that distinguished Trial store 88 from the other two Trial stores, which could have contributed to this difference in performance. However, on the whole, the trial showed a positive and statistically significant outcome.
+
+
+## TASK 3 - PROJECT PRESENTATION
+
+This was the last task of the project whereby I created a presentation of my analysis with visuals that would be easily understandable to stakeholders with recommendations on how to improve sales and if the experiment should be rolled out in all the other stores.
